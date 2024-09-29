@@ -1,0 +1,30 @@
+{
+  "greeting": "最新内容",
+  "description": "融合宏观经济、产业动态和公司战略的深度分析",
+  "more": "阅读更多",
+  "all": "所有文章",
+
+  "moreaboutme": "关于我的更多信息",
+
+  "featured": "重点推荐",
+  "morefeatured": "更多重点推荐",
+  "morerecent": "更多最新文章",
+
+  "search": "搜索",
+  "searchposts": "搜索文章",
+  "comment": "加载评论",
+  "pub": "发布于",
+  "authors": "作者",
+  "name": "姓名",
+  "nexta": "下一篇文章",
+  "preva": "上一篇文章",
+  "nextp": "下一页",
+  "prevp": "上一页",
+  "of": "之",
+  "back": "返回博客",
+  "twitter": "在Twitter上讨论",
+  "github": "在GitHub上查看",
+  "draft": "草稿",
+  "noposts": "未找到文章",
+  "poststagged": "查看标签文章"
+}
